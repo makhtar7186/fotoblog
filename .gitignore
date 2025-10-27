@@ -1,1 +1,5 @@
 .idea
+.env
+bd.sqlite3
+__pycache__
+
